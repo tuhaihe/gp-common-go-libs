@@ -31,7 +31,7 @@ git clone https://github.com/your-user-name/gp-common-go-libs.git
 3. Add the upstream repo. (You only have to do this once, not every time.)
 
 ``` 
-git remote add upstream https://github.com/cloudberrydb/gp-common-go-libs.git
+git remote add upstream https://github.com/tuhaihe/gp-common-go-libs.git
 ```
 
 4. Create a new branch to hold your work.

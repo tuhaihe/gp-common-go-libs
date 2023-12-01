@@ -11,9 +11,9 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/cloudberrydb/gp-common-go-libs/dbconn"
-	"github.com/cloudberrydb/gp-common-go-libs/gplog"
-	"github.com/cloudberrydb/gp-common-go-libs/operating"
+	"github.com/tuhaihe/gp-common-go-libs/dbconn"
+	"github.com/tuhaihe/gp-common-go-libs/gplog"
+	"github.com/tuhaihe/gp-common-go-libs/operating"
 	"github.com/pkg/errors"
 )
 

@@ -6,9 +6,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/cloudberrydb/gp-common-go-libs/iohelper"
-	"github.com/cloudberrydb/gp-common-go-libs/operating"
-	"github.com/cloudberrydb/gp-common-go-libs/testhelper"
+	"github.com/tuhaihe/gp-common-go-libs/iohelper"
+	"github.com/tuhaihe/gp-common-go-libs/operating"
+	"github.com/tuhaihe/gp-common-go-libs/testhelper"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

@@ -9,10 +9,10 @@ import (
 
 	sqlmock "github.com/DATA-DOG/go-sqlmock"
 
-	"github.com/cloudberrydb/gp-common-go-libs/cluster"
-	"github.com/cloudberrydb/gp-common-go-libs/dbconn"
-	"github.com/cloudberrydb/gp-common-go-libs/operating"
-	"github.com/cloudberrydb/gp-common-go-libs/testhelper"
+	"github.com/tuhaihe/gp-common-go-libs/cluster"
+	"github.com/tuhaihe/gp-common-go-libs/dbconn"
+	"github.com/tuhaihe/gp-common-go-libs/operating"
+	"github.com/tuhaihe/gp-common-go-libs/testhelper"
 	"github.com/pkg/errors"
 
 	. "github.com/onsi/ginkgo/v2"
